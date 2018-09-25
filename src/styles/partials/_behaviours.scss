@@ -1,0 +1,17 @@
+@import "./variables";
+body,
+html {
+  color: $dark-purple;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
